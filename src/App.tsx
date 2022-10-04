@@ -4,7 +4,7 @@ import { Main } from './components/Main';
 
 function App() {
   return (
-    <div className="App">
+    <div className="w-full h-[100vh]">
       <Main />
     </div>
   );
